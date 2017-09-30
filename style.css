@@ -1,0 +1,41 @@
+body {
+    background: grey;
+}
+
+h4 {
+    margin-top: 25px;
+}
+
+.big-background {
+    background: #101010 url("http://projects.breatheco.de/p/css/junior/bootstrap/landing-page/img/intro-bg.jpg") no-repeat center;
+    background-size: cover;
+    color: white;
+    padding: 150px 0;
+}
+.gerardo-background{
+    background: white;
+}
+.edgar-background{
+    background: white;
+    padding: 1px;
+}
+.mia {
+    background: red;
+}
+
+.alejandro-post {
+    margin-bottom: 20px;
+}
+
+.alejandro-post img {
+    width: 100%;
+}
+
+.row.no-pad {
+  margin-right:0;
+  margin-left:0;
+}
+.row.no-pad [class*='col-'] {
+  padding-right:0;
+  padding-left:0;
+}
